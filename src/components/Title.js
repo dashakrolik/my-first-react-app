@@ -6,8 +6,4 @@ class Title extends Component {
   }
 }
 
-export default class Title extends Component {
-  render() {
-    return 'test'
-  }
-}
+export default Title
